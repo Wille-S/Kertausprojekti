@@ -1,5 +1,5 @@
 ﻿# Kertausprojekti
-Tässä projektissa on kerrattu perus javascriptiä.
+Tässä projektissa on kerrattu perus javascriptiä ja tietokantojen käyttämistä.
 
 ### Ohjeet käyttöön
 
